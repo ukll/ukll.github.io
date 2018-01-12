@@ -1,4 +1,4 @@
-[Home](index.html) | [My Projects](projects.html)
+[Home](index.html) | [My Projects](PROJECTS.html)
 
 ## About Myself
 

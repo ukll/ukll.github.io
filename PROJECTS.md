@@ -1,3 +1,3 @@
-[Home](index.html) | [About Me](about.html)
+[Home](index.html) | [About Me](ABOUT.html)
 
 ## My Projects
