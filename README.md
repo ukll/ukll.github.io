@@ -1,4 +1,4 @@
-[About Me](ABOUT.html)
+[My Projects](projects.html) | [About Me](about.html)
 
 ## Welcome to GitHub Pages
 
