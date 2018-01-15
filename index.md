@@ -1,3 +1,3 @@
-[My Projects](PROJECTS.md) | [About Me](ABOUT.md)
+[My Projects](projects.html) | [About Me](about.html)
 
-##Article 1
+# Article 1
